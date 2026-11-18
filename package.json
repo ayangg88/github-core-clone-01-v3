@@ -1,0 +1,1 @@
+{"description":"A deterministic, dependency-free GitHub-compatible git forge in a single Node process.","engines":{"node":">=22"},"license":"MIT","main":"main.ts","name":"github-core-clone-01-v3","scripts":{"start":"node main.ts"},"type":"module","version":"3.0.0"}
